@@ -7,6 +7,7 @@
   import reddit from './assets/reddit.svg';
   import mail from './assets/mail.svg';
   import blogger from './assets/blogger.svg';
+  import anilist from './assets/anilist.svg';
 
   import Projects from './assets/projects.svelte';
 
@@ -34,6 +35,9 @@
     },
     {
       link: "https://p3nguinkun.blogspot.com", icon: blogger
+    },
+    {
+      link: "https://anilist.co/user/p3nguinkun/", icon: anilist
     }
   ]
 
@@ -78,14 +82,14 @@
           Hi there!
           My name is Khanh Hien, but you can call me p3nguin-kun or kh4nhhi3n
           I'm a student, a programmer, a rhythm games player, a tech enthusiast and a FOSS Lover. I've loved computers and technology since I was a kid. I like to participate in FOSS projects that I'm interested in.<br><br>
-        <iframe width="480" height="270" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLAwck3ZmnNt2_uPbcSsaTu8qXZ8bAFxYV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLAwck3ZmnNt2_uPbcSsaTu8qXZ8bAFxYV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </span>
       </div>
       <div class="text-center justify-center invisible xl:visible flex flex-col dark:text-teal-100 text-emerald-900">
         <span>Hi there! <br>
           My name is Khanh Hien, but you can call me p3nguin-kun or kh4nhhi3n <br>
           I'm a student, a programmer, a rhythm games player, a tech enthusiast and a FOSS Lover. I've loved computers and technology since I was a kid. I like to participate in FOSS projects that I'm interested in.<br><br>
-        <iframe width="480" height="270" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLAwck3ZmnNt2_uPbcSsaTu8qXZ8bAFxYV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLAwck3ZmnNt2_uPbcSsaTu8qXZ8bAFxYV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </span>
       </div>
     </div>
