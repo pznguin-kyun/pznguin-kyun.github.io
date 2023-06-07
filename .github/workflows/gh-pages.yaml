@@ -1,6 +1,6 @@
 name: Deploy to GitHub Pages
 
-on:
+on: self-hosted
   push:
     branches:
       - master
