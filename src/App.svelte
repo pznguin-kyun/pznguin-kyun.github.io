@@ -62,14 +62,14 @@
 
     <div class="grid xl:grid-cols-2 gap-10 aibietj">
       <div class="flex justify-center text-gray-900 font-medium dark:text-gray-100 h-screen">
-        <span id="name" class="text-7xl absolute select-none">
+        <span id="name" class="text-6xl absolute select-none">
         p3nguin-kun         
         </span>
 
         <span id="icon" class="absolute shadow-2xl p-2 rounded-lg flex flex-row">
          {#each socialLink as s}
             <a href="{s.link}">
-              <img src={s.icon} alt="" class="w-10 h-10 m-4">
+              <img src={s.icon} alt="" class="w-7 h-7 m-1.5">
             </a>
           {/each}
         </span>
