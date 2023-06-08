@@ -8,6 +8,7 @@
   import mail from './assets/mail.svg';
   import blogger from './assets/blogger.svg';
   import anilist from './assets/anilist.svg';
+  import osu from './assets/osu.svg';
 
   import Projects from './assets/projects.svelte';
 
@@ -38,6 +39,9 @@
     },
     {
       link: "https://anilist.co/user/p3nguinkun/", icon: anilist
+    },
+    {
+      link: "https://osu.ppy.sh/users/31895746", icon: osu
     }
   ]
 
