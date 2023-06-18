@@ -39,7 +39,18 @@
             name: "Lite websites",
             link: "https://github.com/p3nguin-kun/lite-websites",
             desc: "List of lite websites for 2G/3G or poor internet connection."
+        },
+        {
+            name: "Bad Apple Python",
+            link: "https://github.com/p3nguin-kun/badapple-python",
+            desc: "Bad Apple in your terminal with Python"
+        },  
+        {
+            name: "lmaofetch",
+            link: "https://github.com/p3nguin-kun/lmaofetch",
+            desc: "Simple system fetch for Linux, written in Bash"
         }
+            
     ]
 </script>
 
