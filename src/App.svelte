@@ -17,7 +17,7 @@
       link: "https://github.com/p3nguin-kun", icon: github
     },
     {
-      link: "https://www.facebook.com/kh4nhhi3n/", icon: fb
+      link: "https://www.facebook.com/p3nguinkun", icon: fb
     },
     {
       link: "https://discord.gg/fxeSRbVfkK", icon: discord
