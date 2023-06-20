@@ -1,9 +1,7 @@
 <script>
   import github from './assets/github.svg';
-  import fb from './assets/facebook.svg';
   import discord from './assets/discord.svg';
   import youtube from './assets/youtube.svg';
-  import twitter from './assets/twitter.svg';
   import reddit from './assets/reddit.svg';
   import mail from './assets/mail.svg';
   import blogger from './assets/blogger.svg';
@@ -17,16 +15,10 @@
       link: "https://github.com/p3nguin-kun", icon: github
     },
     {
-      link: "https://www.facebook.com/p3nguinkun", icon: fb
-    },
-    {
       link: "https://discord.gg/fxeSRbVfkK", icon: discord
     },
     {
       link: "https://www.youtube.com/@p3nguin-kun", icon: youtube
-    },
-    {
-      link: "https://twitter.com/p3nguin_kun", icon: twitter
     },
     {
       link: "https://reddit.com/u/kh4nhhi3n", icon: reddit
