@@ -24,7 +24,7 @@
       link: "https://reddit.com/u/kh4nhhi3n", icon: reddit
     },
     {
-      link: "mailto:kh4nhhi3n@hotmail.com", icon: mail
+      link: "mailto:p3nguinkun@proton.me", icon: mail
     },
     {
       link: "https://p3nguinkun.blogspot.com", icon: blogger
