@@ -7,10 +7,14 @@
   import blogger from './assets/blogger.svg';
   import anilist from './assets/anilist.svg';
   import osu from './assets/osu.svg';
+  import codeberg from './assets/codeberg.svg';
 
   import Projects from './assets/projects.svelte';
 
   const socialLink = [
+    {
+      link: "https://codeberg.org/p3nguin-kun", icon: codeberg
+    },
     {
       link: "https://github.com/p3nguin-kun", icon: github
     },
