@@ -7,27 +7,32 @@
         },
         {
             name: "penguinRice",
-            link: "https://p3nguin-kun.github.io/penguinRice",
+            link: "https://codeberg.org/p3nguin-kun/penguinRice",
             desc: "Auto Rice script after installation (for Arch Linux and Arch-based distro)."
         },
         {
             name: "penguinVim",
-            link: "https://p3nguin-kun.github.io/penguinVim",
+            link: "https://codeberg.org/p3nguin-kun/penguinVim",
             desc: "My NeoVim config - Turn NeoVim into an IDE."
         },
         {
             name: "penguinFox",
-            link: "https://p3nguin-kun.github.io/penguinFox",
+            link: "https://codeberg.org/p3nguin-kun/penguinFox",
             desc: "Firefox with better UI, better privacy and security."
         },
         {
+            name: "lmaofetch",
+            link: "https://codeberg.org/p3nguin-kun/lmaofetch",
+            desc: "Simple system fetch for Linux, written in Bash"
+        },
+        {
             name: "Gruvbox wallpapers",
-            link: "https://github.com/p3nguin-kun/gruvbox-wallpapers",
+            link: "https://codeberg.org/p3nguin-kun/gruvbox-wallpapers",
             desc: "My Gruvbox wallpapers collection."
         },
         {
             name: "Gruvbox on everything",
-            link: "https://p3nguin-kun.github.io/gruvbox-on-everything/",
+            link: "https://codeberg.org/p3nguin-kun/gruvbox-on-everything/",
             desc: "List of gruvbox config for apps, websites."
         },
         {
@@ -37,20 +42,14 @@
         },
         {
             name: "Lite websites",
-            link: "https://github.com/p3nguin-kun/lite-websites",
+            link: "https://codeberg.org/p3nguin-kun/lite-websites",
             desc: "List of lite websites for 2G/3G or poor internet connection."
         },
         {
             name: "Bad Apple Python",
-            link: "https://github.com/p3nguin-kun/badapple-python",
+            link: "https://codeberg.org/p3nguin-kun/badapple-python",
             desc: "Bad Apple in your terminal with Python"
         },  
-        {
-            name: "lmaofetch",
-            link: "https://github.com/p3nguin-kun/lmaofetch",
-            desc: "Simple system fetch for Linux, written in Bash"
-        }
-            
     ]
 </script>
 
