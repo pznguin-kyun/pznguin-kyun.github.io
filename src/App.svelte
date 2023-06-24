@@ -59,7 +59,7 @@
       </svg>
     </div>
 
-    <div class="grid xl:grid-cols-2 gap-10 aibietj">
+    <div class="grid xl:grid-cols-3 gap-10 aibietj">
       <div class="flex justify-center text-gray-900 font-medium dark:text-gray-100 h-screen">
         <span id="name" class="text-5xl absolute select-none">
         p3nguin-kun         
