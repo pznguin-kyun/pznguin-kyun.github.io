@@ -77,7 +77,6 @@
           Hi there!
           My name is p3nguin-kun, but you can call me kh4nhhi3n
           I'm a student, a programmer, a rhythm games player, a tech enthusiast and a FOSS Lover. I've loved computers and technology since I was a kid. I like to participate in FOSS projects that I'm interested in.<br><br>
-        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLAwck3ZmnNt2_uPbcSsaTu8qXZ8bAFxYV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </span>
       </div>
       <div class="text-center justify-center invisible xl:visible flex flex-col dark:text-teal-100 text-emerald-900">
