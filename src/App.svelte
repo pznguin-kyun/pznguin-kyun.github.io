@@ -106,7 +106,7 @@
     top: 35%;
   }
   
-  @media (min-width: 800px) {
+  @media (min-width: 1280px) {
   #name {
     top: 40%;
   }
