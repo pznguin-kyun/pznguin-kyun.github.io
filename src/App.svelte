@@ -13,22 +13,22 @@
 
   const socialLink = [
     {
-      link: "https://codeberg.org/p3nguin-kun", icon: codeberg
+      link: "https://codeberg.org/miyamura01", icon: codeberg
     },
     {
-      link: "https://github.com/p3nguin-kun", icon: github
+      link: "https://github.com/miyamurakun01", icon: github
     },
     {
       link: "https://discord.gg/fxeSRbVfkK", icon: discord
     },
     {
-      link: "https://www.youtube.com/@p3nguin-kun", icon: youtube
+      link: "https://www.youtube.com/@miyamura_01", icon: youtube
     },
     {
       link: "https://reddit.com/u/kh4nhhi3n", icon: reddit
     },
     {
-      link: "mailto:p3nguinkun@proton.me", icon: mail
+      link: "mailto:miyamura01@proton.me", icon: mail
     },
     {
       link: "https://p3nguinkun.blogspot.com", icon: blogger
@@ -62,7 +62,7 @@
     <div class="grid xl:grid-cols-3 gap-10 aibietj">
       <div class="flex justify-center text-gray-900 font-medium dark:text-gray-100 h-screen">
         <span id="name" class="text-5xl absolute select-none">
-        p3nguin-kun         
+        miyamura01         
         </span>
 
         <span id="icon" class="absolute shadow-2xl p-2 rounded-lg flex flex-row">
@@ -75,7 +75,7 @@
 
         <span class="text-center absolute xl:invisible top-1/2 m-4 dark:text-teal-100 text-emerald-900">
           Hi there!
-          My name is p3nguin-kun, but you can call me kh4nhhi3n
+          My name is miyamura01 (or p3nguin-kun, kh4nhhi3n, ...)
           I'm a student, a programmer, a rhythm games player, a tech enthusiast and a FOSS Lover. I've loved computers and technology since I was a kid. I like to participate in FOSS projects that I'm interested in.<br><br>
           <br><iframe width="95%" height="95%" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLAwck3ZmnNt2_uPbcSsaTu8qXZ8bAFxYV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 
@@ -87,7 +87,7 @@
       </div>
       <div class="text-center justify-center invisible xl:visible flex flex-col dark:text-teal-100 text-emerald-900">
         <span>Hi there! <br>
-          My name is p3nguin-kun, but you can call me kh4nhhi3n <br>
+          My name is miyamura01 (or p3nguin-kun, kh4nhhi3n, ...) <br>
           I'm a student, a programmer, a rhythm games player, a tech enthusiast and a FOSS Lover. I've loved computers and technology since I was a kid. I like to participate in FOSS projects that I'm interested in.<br><br>
         </span>
       </div>
