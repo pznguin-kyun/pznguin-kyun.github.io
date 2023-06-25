@@ -87,7 +87,9 @@
         </span>
       </div>
       <div id="music" class="justify-center invisible xl:visible">   
+        <span>
         <br><iframe width="95%" height="95%" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLAwck3ZmnNt2_uPbcSsaTu8qXZ8bAFxYV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+        </span>
       </div>
     </div>
   </div>
