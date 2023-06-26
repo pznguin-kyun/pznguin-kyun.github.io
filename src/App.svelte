@@ -13,10 +13,10 @@
 
   const socialLink = [
     {
-      link: "https://codeberg.org/miyamura01", icon: codeberg
+      link: "https://codeberg.org/p3nguin-kun", icon: codeberg
     },
     {
-      link: "https://github.com/miyamurakun01", icon: github
+      link: "https://github.com/p3nguin-kun", icon: github
     },
     {
       link: "https://discord.gg/fxeSRbVfkK", icon: discord
@@ -28,7 +28,7 @@
       link: "https://reddit.com/u/kh4nhhi3n", icon: reddit
     },
     {
-      link: "mailto:miyamura01@proton.me", icon: mail
+      link: "mailto:p3nguinkun@proton.me", icon: mail
     },
     {
       link: "https://p3nguinkun.blogspot.com", icon: blogger
