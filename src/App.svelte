@@ -62,7 +62,7 @@
     <div class="grid xl:grid-cols-3 gap-10 aibietj">
       <div class="flex justify-center text-gray-900 font-medium dark:text-gray-100 h-screen">
         <span id="name" class="text-5xl absolute select-none">
-        miyamura01         
+        p3nguin-kun         
         </span>
 
         <span id="icon" class="absolute shadow-2xl p-2 rounded-lg flex flex-row">
