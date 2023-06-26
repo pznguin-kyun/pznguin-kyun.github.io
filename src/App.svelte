@@ -34,7 +34,7 @@
       link: "https://p3nguinkun.blogspot.com", icon: blogger
     },
     {
-      link: "https://anilist.co/user/miyamura01/", icon: anilist
+      link: "https://anilist.co/user/p3nguinkun/", icon: anilist
     },
     {
       link: "https://osu.ppy.sh/users/31895746", icon: osu
