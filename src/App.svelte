@@ -13,9 +13,6 @@
 
   const socialLink = [
     {
-      link: "https://codeberg.org/p3nguin-kun", icon: codeberg
-    },
-    {
       link: "https://github.com/p3nguin-kun", icon: github
     },
     {
