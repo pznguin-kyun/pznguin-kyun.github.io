@@ -7,32 +7,32 @@
         },
         {
             name: "penguinRice",
-            link: "https://codeberg.org/p3nguin-kun/penguinRice",
+            link: "https://github.com/p3nguin-kun/penguinRice",
             desc: "Auto Rice script after installation (for Arch Linux and Arch-based distro)."
         },
         {
             name: "penguinVim",
-            link: "https://codeberg.org/p3nguin-kun/penguinVim",
+            link: "https://github.com/p3nguin-kun/penguinVim",
             desc: "My NeoVim config - Turn NeoVim into an IDE."
         },
         {
             name: "penguinFox",
-            link: "https://codeberg.org/p3nguin-kun/penguinFox",
+            link: "https://github.com/p3nguin-kun/penguinFox",
             desc: "Firefox with better UI, better privacy and security."
         },
         {
             name: "lmaofetch",
-            link: "https://codeberg.org/p3nguin-kun/lmaofetch",
+            link: "https://github.com/p3nguin-kun/lmaofetch",
             desc: "Simple system fetch for Linux, written in Bash"
         },
         {
             name: "Gruvbox wallpapers",
-            link: "https://codeberg.org/p3nguin-kun/gruvbox-wallpapers",
+            link: "https://github.com/p3nguin-kun/gruvbox-wallpapers",
             desc: "My Gruvbox wallpapers collection."
         },
         {
             name: "Gruvbox on everything",
-            link: "https://codeberg.org/p3nguin-kun/gruvbox-on-everything/",
+            link: "https://github.com/p3nguin-kun/gruvbox-on-everything/",
             desc: "List of gruvbox config for apps, websites."
         },
         {
@@ -42,12 +42,12 @@
         },
         {
             name: "Lite websites",
-            link: "https://codeberg.org/p3nguin-kun/lite-websites",
+            link: "https://github.com/p3nguin-kun/lite-websites",
             desc: "List of lite websites for 2G/3G or poor internet connection."
         },
         {
             name: "Bad Apple Python",
-            link: "https://codeberg.org/p3nguin-kun/badapple-python",
+            link: "https://github.com/p3nguin-kun/badapple-python",
             desc: "Bad Apple in your terminal with Python"
         },  
     ]
