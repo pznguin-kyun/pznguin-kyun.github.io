@@ -26,6 +26,16 @@
             desc: "Simple system fetch for Linux, written in Bash"
         },
         {
+            name: "TermuxRice",
+            link: "https://github.com/p3nguin-kun/TermuxRice",
+            desc: "Rice your Android phone with TermuxRice"
+        },
+        {
+            name: "lightdm-evo-gruvbox",
+            link: "https://github.com/p3nguin-kun/lightdm-evo-gruvbox",
+            desc: "A modern theme for LightDM WebKit2 with Gruvbox colorscheme."
+        },
+        {
             name: "Gruvbox wallpapers",
             link: "https://github.com/p3nguin-kun/gruvbox-wallpapers",
             desc: "My Gruvbox wallpapers collection."
@@ -34,11 +44,6 @@
             name: "Gruvbox on everything",
             link: "https://github.com/p3nguin-kun/gruvbox-on-everything/",
             desc: "List of gruvbox config for apps, websites."
-        },
-        {
-            name: "lightdm-evo-gruvbox",
-            link: "https://github.com/p3nguin-kun/lightdm-evo-gruvbox",
-            desc: "A modern theme for LightDM WebKit2 with Gruvbox colorscheme."
         },
         {
             name: "Lite websites",
