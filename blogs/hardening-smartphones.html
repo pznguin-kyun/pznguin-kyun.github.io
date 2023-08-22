@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Hardening smartphones - p3nguin-kun</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<style>
+body {top: 0; left: 0; width:99%; height: 97%;background-color:#000000;color:#ffffff;
+    position: absolute; display: table}
+  p {display: table-cell; vertical-align: middle; text-align: center; background-color:#000000; color: #ffffff}
+
+}
+</style>
+</head>
+
+navbar: 
+<a href="/">./</a> - 
+<a href="/aboutme.html">about me</a> - 
+<a href="/contact.html">contact</a> -
+<a href="/projects.html">projects</a> -
+<a href="/blogs.html">blogs</a>
+
+<h1 id="-hardening-smartphones-"><strong>Hardening smartphones</strong></h1>
+[Last edited: Aug 22 2023 12:42 PM]
+<br><br>
+In this blog I will show you how to harden your phone, make your phone more private and secure.
+<h1 id="-choosing-a-phone-to-harden-"><strong>Choosing a phone to harden</strong></h1>
+<ul>
+  <li>Tier A: FairPhone, OnePlus, Sony (global), Asus, ...</li>
+  <li>Tier B: Google, Apple, Nokia, Huawei/Honor, Samsung ...</li>
+  <li>Tier C: Oppo, Vivo, Realme, Xiaomi, ...</li>
+</ul>
+FairPhone: Clean firmware, ethical, recyclable components, but its price is a bit higher for midrange hardware. <b>Good</b>
+<br><br>
+OnePlus, Sony, Asus: Their firmware is nearly stock and you can debloat them easily. <b>Good</b>
+<br><br>
+Samsung, Google, Nokia: Their firmware is full of shjt but you can harden them easily. If you use Google phones, you can install custom firmware like GrapheneOS or LineageOS for better privacy. <b>Acceptable</b>
+<br><br>
+Apple, Huawei: Already debloated by default, but you need to uninstall some pre-installed apps and disable telemetry. Although Huawei is CCP Phone it is still better than many other Chinese companies. <b>Good</b>
+<br><br>
+Oppo, Vivo, Realme: Too many junk apps and you can't uninstall it even using ADB, and it doesn't even have custom firmware to flash. <b>Shit phone, don't buy it.</b>
+<br><br>
+Xiaomi: Shit phone, but it has many custom firmware to flash and debloat. <b>Acceptable</b>
+
+<h1 id="-hardening-android-phones-"><strong>Hardening Android phones</strong></h1>
+<ul>
+  <h1 id="-easy-way-"><strong>Easy way</strong></h1>
+  <h2 id="-general-"><strong>General</strong></h2>
+  <li>Disable, uninstall all Google apps. Google is evil.</li>
+  <br>
+  <li>Debloat apps, disable all telemetry on your phone, you can use ADB or Shizuku to uninstall unnecessary system apps. Bloated app makes your phone slow and it's always working to track you.</li>
+  <br>
+  <li>Use FOSS and libre apps. You can use F-Droid to install FOSS apps like NewPipe or Mull (hardened Firefox Android). If you don't know which app to use, you can check out my list <a href="/blogs/android-apps-i-use.html">here</a></li>
+  <br>
+  <li>Disable location and location services (like "Find my phone", ...). This may enable anyone with access to your Google account (e.g. if hacked or by law enforcement) to track your location.</li>
+  <br>
+  <h2 id="-security-"><strong>Security</strong></h2>
+  <li>Set strong password. I recommend using a password instead of a pattern or pin.</li>
+  <br>
+  <li>Don't use biometrics security like fingerprint or face unlock.</li>
+  <br>
+  <li>Set auto-lock timeout under 5mins.</li>
+  <br>
+  <li>Disable 'Make Passwords Visible'.</li>
+  <br>
+  <li>Remove apps's unnecessary permissions.</li>
+  <h2 id="-network-"><strong>Network</strong></h2>
+  <li>Use privacy browser. I recommend to use Mull (hardened Firefox Android). it has disabled telemetry by default so you don't need to tweak it much, just disable "save logins, passwords, or credit cards".</li>
+  <br>
+  <li>Use content blocker for your browser. I recommend the uBlock Origin because it is lightweight and open-source.</li>
+  <br>
+  <li>Use a VPN. I recommend RiseupVPN because it's free, open source and does not collect any information.</li>
+  <br>
+  <li>Use firewall to block apps connect to internet. You can use NetGuard, an Android firewall without root permissions.</li>
+  <br>
+  <li>Turn off Wifi, Bluetooth, NFC and Mobile Network when not in use.</li>
+  <br>
+  <li>Forget Wi-Fi networks to prevent automatic rejoin.</li>
+  <h2 id="-input-"><strong>Language and Input</strong></h2>
+  <li>Disable spell checker, suggestion, auto correct ...</li>
+  <br>
+  <li>Use open-source keyboard like FlorisBoard, OpenBoard, ...</li>
+  <h1 id="-advanced-way-"><strong>Advanced way</strong></h1>
+  <li>Use de-googled, privacy and security-oriented custom ROM like GrapheneOS, LineageOS and CalyxOS.</li>
+  <br>
+  <li>Use hardened kernel.</li>
+  <br>
+  <li>Root your phone, I don't recommend this method, but it's also a good way to harden the phone.</li>
+  <br>
+  <li>Encrypt your phone (you don't need to do that because from android 10 and higher, this setting is already enabled.)</li>
+  <br>
+  <li>Lock SIM card.</li>
+  <br>
+  <li>Remove camera and microphone.</li>
+</ul>
+
+<br><br>
+this site is not completed.
+<br><br>
