@@ -1,3 +1,4 @@
+/* $color-text: #dedce5; */
 /* Sakura.css v1.5.0
  * ================
  * Minimal css theme.
@@ -14,8 +15,8 @@ body {
   line-height: 1.618;
   max-width: 38em;
   margin: auto;
-  color: #49002d;
-  background-color: #ffe4f5;
+  color: #d9d8dc;
+  background-color: #120c0e;
   padding: 13px;
 }
 
@@ -75,19 +76,19 @@ small, sub, sup {
 }
 
 hr {
-  border-color: #980255;
+  border-color: #eb99a1;
 }
 
 a {
   text-decoration: none;
-  color: #980255;
+  color: #eb99a1;
 }
 a:visited {
-  color: #660139;
+  color: #e26f7a;
 }
 a:hover {
-  color: #753851;
-  border-bottom: 2px solid #49002d;
+  color: #DA4453;
+  border-bottom: 2px solid #d9d8dc;
 }
 
 ul {
@@ -107,9 +108,9 @@ blockquote {
   padding-top: 0.8em;
   padding-bottom: 0.8em;
   padding-right: 0.8em;
-  border-left: 5px solid #980255;
+  border-left: 5px solid #eb99a1;
   margin-bottom: 2.5rem;
-  background-color: #f8d2e9;
+  background-color: #40363a;
 }
 
 blockquote p {
@@ -125,7 +126,7 @@ img, video {
 
 /* Pre and Code */
 pre {
-  background-color: #f8d2e9;
+  background-color: #40363a;
   display: block;
   padding: 1em;
   overflow-x: auto;
@@ -137,7 +138,7 @@ pre {
 code, kbd, samp {
   font-size: 0.9em;
   padding: 0 0.5em;
-  background-color: #f8d2e9;
+  background-color: #40363a;
   white-space: pre-wrap;
 }
 
@@ -158,15 +159,15 @@ table {
 
 td, th {
   padding: 0.5em;
-  border-bottom: 1px solid #f8d2e9;
+  border-bottom: 1px solid #40363a;
 }
 
 /* Buttons, forms and input */
 input, textarea {
-  border: 1px solid #49002d;
+  border: 1px solid #d9d8dc;
 }
 input:focus, textarea:focus {
-  border: 1px solid #980255;
+  border: 1px solid #eb99a1;
 }
 
 textarea {
@@ -179,10 +180,10 @@ textarea {
   text-align: center;
   text-decoration: none;
   white-space: nowrap;
-  background-color: #980255;
-  color: #ffe4f5;
+  background-color: #eb99a1;
+  color: #120c0e;
   border-radius: 1px;
-  border: 1px solid #980255;
+  border: 1px solid #eb99a1;
   cursor: pointer;
   box-sizing: border-box;
 }
@@ -191,8 +192,8 @@ textarea {
   opacity: 0.5;
 }
 .button:hover, button:hover, input[type=submit]:hover, input[type=reset]:hover, input[type=button]:hover, input[type=file]::file-selector-button:hover {
-  background-color: #753851;
-  color: #ffe4f5;
+  background-color: #DA4453;
+  color: #120c0e;
   outline: 0;
 }
 .button:focus-visible, button:focus-visible, input[type=submit]:focus-visible, input[type=reset]:focus-visible, input[type=button]:focus-visible, input[type=file]::file-selector-button:focus-visible {
@@ -201,22 +202,22 @@ textarea {
 }
 
 textarea, select, input {
-  color: #49002d;
+  color: #d9d8dc;
   padding: 6px 10px; /* The 6px vertically centers text on FF, ignored by Webkit */
   margin-bottom: 10px;
-  background-color: #f8d2e9;
-  border: 1px solid #f8d2e9;
+  background-color: #40363a;
+  border: 1px solid #40363a;
   border-radius: 4px;
   box-shadow: none;
   box-sizing: border-box;
 }
 textarea:focus, select:focus, input:focus {
-  border: 1px solid #980255;
+  border: 1px solid #eb99a1;
   outline: 0;
 }
 
 input[type=checkbox]:focus {
-  outline: 1px dotted #980255;
+  outline: 1px dotted #eb99a1;
 }
 
 label, legend, fieldset {
