@@ -4,6 +4,12 @@
  * Project: https://github.com/oxalorg/sakura/
  */
 /* Body */
+@font-face {
+  font-family: "Cascadia Code";
+  src: url('CascadiaCode.ttf');
+  src: url('CascadiaCode.woff2');
+}
+
 html {
   font-size: 62.5%;
   font-family: "Cascadia Code";
