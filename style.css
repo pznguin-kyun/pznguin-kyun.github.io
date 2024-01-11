@@ -3,14 +3,16 @@
     src: url(assets/fonts/sourcehanserif.woff2);
 }
 
+* {
+    cursor: url('assets/cursor/lol.cur'), auto;
+}
+
 html {
-  cursor: url("assets/cursor/point.png"), auto;
   font-size: 62.5%;
   font-family: "Source Han Serif VF", serif;
 }
 
 body {
-  cursor: url("assets/cursor/point.png"), auto;
   font-size: 2.0rem;
   line-height: 1.618;
   max-width: 38em;
