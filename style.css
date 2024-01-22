@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Source Han Serif VF";
-    src: local('Source Han Serif VF'), local('Source Han Serif'), url('assets/fonts/sourcehanserif.woff2');
+    src: local('Source Han Serif VF'), url('assets/fonts/sourcehanserif.woff2');
 }
 
 * {
