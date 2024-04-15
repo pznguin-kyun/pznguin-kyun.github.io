@@ -1,6 +1,6 @@
 @font-face {
-    font-family: "Noto Serif";
-    src: local('Noto Serif'), url('assets/fonts/noto-serif.ttf');
+    font-family: "PxPlus IBM VGA8";
+    src: local('PxPlus IBM VGA8'), url('assets/fonts/ibm_vga8.ttf');
 }
 
 * {
@@ -9,7 +9,7 @@
 
 html {
   font-size: 62.5%;
-  font-family: "Noto Serif", serif;
+  font-family: "PxPlus IBM VGA8", serif;
 }
 
 body {
