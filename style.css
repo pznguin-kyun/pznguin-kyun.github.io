@@ -221,10 +221,6 @@ label, legend, fieldset {
   font-weight: 600;
 }
 
-.body-center {
-    display: table
-}
-
 .p-center {
     display: table-cell; 
     vertical-align: middle; 
