@@ -3,10 +3,6 @@
     src: local('PxPlus IBM VGA8'), url('assets/fonts/ibm_vga8.ttf');
 }
 
-* {
-    cursor: url('assets/cursor/lol.png'), auto;
-}
-
 html {
   font-size: 62.5%;
   font-family: "PxPlus IBM VGA8", serif;
