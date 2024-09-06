@@ -6,6 +6,12 @@
 html {
   font-size: 62.5%;
   font-family: "PxPlus IBM VGA8", serif;
+  color: #ffffff;
+  background: url('assets/bg/2.png');
+  background-color: #000000;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 body {
@@ -13,17 +19,7 @@ body {
   line-height: 1.618;
   max-width: 38em;
   margin: auto;
-  color: #ffffff;
-  background: url('assets/bg/2.png');
-  background-color: #000000;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
   padding: 13px;
-}
-
-img {
-    image-rendering: pixelated;
 }
 
 h1, h2, h3, h4, h5, h6 {
