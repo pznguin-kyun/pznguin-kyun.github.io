@@ -14,8 +14,8 @@ body {
   max-width: 38em;
   margin: auto;
   color: #ffffff;
-  background: url('assets/bg/1.gif');
-  background-color: #000507;
+  background: url('assets/bg/2.png');
+  background-color: #000000;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -72,6 +72,7 @@ small, sub, sup {
 }
 
 hr {
+  width: 50%;
   border-color: #ffffff;
 }
 
