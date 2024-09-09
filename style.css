@@ -7,9 +7,10 @@ html {
   font-size: 62.5%;
   font-family: "PxPlus IBM VGA8", serif;
   color: #ffffff;
-  background: url('assets/bg/1.png') no-repeat center center fixed;
+  background-image: url('assets/bg/1.png');
   background-color: #000000;
   background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
