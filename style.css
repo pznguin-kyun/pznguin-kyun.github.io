@@ -1,11 +1,11 @@
 @font-face {
-    font-family: "PxPlus IBM VGA8";
-    src: local('PxPlus IBM VGA8'), url('assets/fonts/ibm_vga8.ttf');
+    font-family: "CaviarDreams";
+    src: local('CaviarDreams'), url('assets/fonts/caviardreams.ttf');
 }
 
 html {
   font-size: 62.5%;
-  font-family: "PxPlus IBM VGA8", serif;
+  font-family: "CaviarDreams", sans-serif, serif;
   color: #ffffff;
   background-image: url('assets/bg/1.png');
   background-color: #000000;
